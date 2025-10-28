@@ -4,8 +4,6 @@ description: This resurce contains solutions to the problems for week 3, wednesd
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/2809a6ba2f57debbea3eea1e14a0b09b_cp3wsol.pdf
 file_size: 116884
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

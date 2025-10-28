@@ -6,8 +6,6 @@ description: This resource discusses G?del's completeness theorem, axioms and in
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/44d7c5a2c438bd6b23360c65e328e060_slides2f.pdf
 file_size: 122685
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

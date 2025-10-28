@@ -5,8 +5,6 @@ description: This resource discusses book stacking problem for n books and a tea
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/e9197e249bc8cb9564f3c0d0d47d1232_slides8f.pdf
 file_size: 335069
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource discusses the claim that there exists an infinite dec
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/9c72db6786e5bdaf12909887338b5bc3_infinity.pdf
 file_size: 70680
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

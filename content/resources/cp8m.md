@@ -5,8 +5,6 @@ description: 'This resource contains 2 set of problems based on state machines I
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/acc056dfa4bf3fb71ca6d74a6f71ab0f_cp8m.pdf
 file_size: 111612
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource contains solutions to in-class problems for week 3, f
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/98cda81c28069128be08230cc06d85d3_cp3fsol.pdf
 file_size: 129210
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

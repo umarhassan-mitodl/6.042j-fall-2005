@@ -4,8 +4,6 @@ description: This resource contains soution for the in-class problems week 11, f
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/ab65387d040655689b2445540e5bd231_cp11fsol.pdf
 file_size: 149547
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

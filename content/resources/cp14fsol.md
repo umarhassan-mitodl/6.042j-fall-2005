@@ -4,8 +4,6 @@ description: This resource contains solutions to in-class problems for week 14, 
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/9725d4542fe507001450d5a0af6dcb68_cp14fsol.pdf
 file_size: 184090
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

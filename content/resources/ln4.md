@@ -4,8 +4,6 @@ description: This file contains reading notes for binary relations.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/173cd272b3b35d2c1998e996104e86f9_ln4.pdf
 file_size: 355097
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

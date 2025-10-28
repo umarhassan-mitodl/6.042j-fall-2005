@@ -4,8 +4,6 @@ description: This file contains questions for introduction to probability.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/3dc48454096557d3fa9036f80f69f661_ps9.pdf
 file_size: 138350
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

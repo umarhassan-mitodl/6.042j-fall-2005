@@ -5,8 +5,6 @@ description: This resource contains 3 set of problems based on gamblers ruin und
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/1cec3bf1b31f3a2c81eab2ab1fe450d8_cp15w.pdf
 file_size: 120093
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

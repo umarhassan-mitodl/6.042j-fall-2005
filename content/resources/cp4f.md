@@ -5,8 +5,6 @@ description: This resource contains 4 set of problems and the graph isomorphism 
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/e2ce6e9b128034fb27a9dd5cad432f0c_cp4f.pdf
 file_size: 87810
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

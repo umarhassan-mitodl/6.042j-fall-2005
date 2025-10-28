@@ -4,8 +4,6 @@ description: This file contains soluitions to final exam for the course.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/2268fe4dd60a8316f50cd0f93fd519a6_finalsol.pdf
 file_size: 260920
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

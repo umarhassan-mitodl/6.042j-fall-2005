@@ -6,8 +6,6 @@ description: 'This resource dicusses vocabulary, online tutor problems 1, readin
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/ccb9999ecbb1b6a9f0668720c7f2ad2e_slides1w.pdf
 file_size: 63694
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

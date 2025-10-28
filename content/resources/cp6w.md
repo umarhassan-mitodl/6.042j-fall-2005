@@ -4,8 +4,6 @@ description: This resource contains 4 set of problems based on number theory I.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/e4c90829f16c125f5c1372c6d3b44437_cp6w.pdf
 file_size: 109789
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

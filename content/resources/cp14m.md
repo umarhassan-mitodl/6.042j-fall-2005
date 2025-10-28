@@ -4,8 +4,6 @@ description: This resource contains 3 set of problems based on linearity of expe
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/ede2839aceb1c755c4dee2a25a9edc85_cp14m.pdf
 file_size: 111021
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -35,8 +35,7 @@
     "website": "6-042j-mathematics-for-computer-science-fall-2005"
   },
   "course_title": "Mathematics for Computer Science",
-  "hide_download": true,
-  "course_description": "This is an introductory course in Discrete Mathematics oriented toward Computer Science and Engineering. The course divides roughly into thirds:\n\n1.  Fundamental Concepts of Mathematics: Definitions, Proofs, Sets, Functions, Relations\n2.  Discrete Structures: Modular Arithmetic, Graphs, State Machines, Counting\n3.  Discrete Probability Theory\n\nA version of this course from a\u00a0previous term\u00a0was also taught as part of the [Singapore-MIT Alliance](http://web.mit.edu/sma/) (SMA) programme as course number SMA 5512 (Mathematics for Computer Science).\n",
+  "course_description": "This is an introductory course in Discrete Mathematics oriented toward Computer Science and Engineering. The course divides roughly into thirds:\n\n1.  Fundamental Concepts of Mathematics: Definitions, Proofs, Sets, Functions, Relations\n2.  Discrete Structures: Modular Arithmetic, Graphs, State Machines, Counting\n3.  Discrete Probability Theory\n\nA version of this course from a\u00a0previous term\u00a0was also taught as part of the {{% resource_link \"00d84eca-b862-470d-80e2-76a2bf134a23\" \"Singapore-MIT Alliance\" %}} (SMA) programme as course number SMA 5512 (Mathematics for Computer Science).\n",
   "department_numbers": [
     "6",
     "18"
@@ -47,7 +46,6 @@
     "content": "a426d568-60e2-a6d9-1734-357313d23396",
     "website": "6-042j-mathematics-for-computer-science-fall-2005"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",

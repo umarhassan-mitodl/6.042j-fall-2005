@@ -4,8 +4,6 @@ description: This file contains solutions to the questions asked in problem set 
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/8d40392c4efc7395fb0a1536c238355c_ps5sol.pdf
 file_size: 141382
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

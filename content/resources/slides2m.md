@@ -5,8 +5,6 @@ description: This resource discusses proof by contradiction, proof by cases, pro
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/d80e5817cc9454596f2f44d9c6c42ec9_slides2m.pdf
 file_size: 62787
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

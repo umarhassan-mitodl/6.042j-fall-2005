@@ -4,8 +4,6 @@ description: This resource contains 4 set of problems based on relation II.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/1321d8318c3d62702bb6d1c50b041ad9_cp4w.pdf
 file_size: 135102
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource contains 3 set of problems based on introduction to p
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/f5d02246577c4200952e32c78a853d08_cp12m.pdf
 file_size: 100484
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

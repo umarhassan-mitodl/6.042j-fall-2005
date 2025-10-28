@@ -4,8 +4,6 @@ description: This resource contains 2 set of problems based on sets and function
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/705f3f24a2a61889df1cbb79dcdd6139_cp2f.pdf
 file_size: 88122
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

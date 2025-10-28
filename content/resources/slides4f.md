@@ -5,8 +5,6 @@ description: 'This resource discusses types of graphs: directed graphs, undirect
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/197bc514d71ad8280a12fdae966024b5_slides4f.pdf
 file_size: 72015
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

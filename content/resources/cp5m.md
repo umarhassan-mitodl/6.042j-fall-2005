@@ -4,8 +4,6 @@ description: This resource contains 5 set of problems based on graph theory II.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/4f84b4672cd5ac3a09b017a62c84f9a3_cp5m.pdf
 file_size: 123936
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

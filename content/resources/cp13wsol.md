@@ -4,8 +4,6 @@ description: This resource contains solutions to in-class problems for week 13, 
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/358903deb8bc5c08d928861895e3ebef_cp13wsol.pdf
 file_size: 136336
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

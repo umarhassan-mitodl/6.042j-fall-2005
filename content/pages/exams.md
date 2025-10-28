@@ -3,8 +3,6 @@ content_type: page
 description: The exams section contains a total of 7 files which includes practice
   quiz and its solution, quizes and solutions to these quizes, and final exam for
   the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

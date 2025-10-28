@@ -5,8 +5,6 @@ description: 'This file contains solutions to the questions asked for State Mach
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/95bc73322f92032ed45db4dc34924e34_ps6sol.pdf
 file_size: 240302
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,8 +7,6 @@ description: This resource discusses Normal Person?s graph, Computer Scientist?s
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/600283cc83a204295ea5251598586159_slides4w.pdf
 file_size: 716828
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

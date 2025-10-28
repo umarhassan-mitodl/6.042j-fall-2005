@@ -4,8 +4,6 @@ description: This resource contains solution to the in-class problems week 10, m
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/338a2d3616103ab37a5138ac7f20f3f6_cp10msol.pdf
 file_size: 159799
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

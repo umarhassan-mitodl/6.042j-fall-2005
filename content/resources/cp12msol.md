@@ -4,8 +4,6 @@ description: This resource contains solutions for in-class problems week 12, mon
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/a02e916b77896cafe7c10df1a0ad6b2a_cp12msol.pdf
 file_size: 161556
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,8 +7,6 @@ description: 'This resource contains 4 set of problems based conditional probabi
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/0b95726eb4264886780c2b6c966e212d_cp12w.pdf
 file_size: 127043
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

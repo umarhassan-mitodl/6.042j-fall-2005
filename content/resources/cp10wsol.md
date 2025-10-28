@@ -5,8 +5,6 @@ description: This resource contains solutions of the problems for the in-class p
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/b20581737cb788cae13075a9fbbe9f30_cp10wsol.pdf
 file_size: 177866
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

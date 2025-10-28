@@ -4,8 +4,6 @@ description: This resource contains solutions to in-class problems for week 6, w
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/1cdf781ed2253bb7cb415100a17e04a2_cp6wsol.pdf
 file_size: 141052
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

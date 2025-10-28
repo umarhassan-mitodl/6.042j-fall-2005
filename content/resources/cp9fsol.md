@@ -4,8 +4,6 @@ description: This resource contains solutions to in-class problems for week 9, f
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/a369fa860cf0d40ed1bfef392b2500fb_cp9fsol.pdf
 file_size: 157662
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

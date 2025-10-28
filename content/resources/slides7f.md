@@ -5,8 +5,6 @@ description: This resource discusses state machine, state invariants, and The Fi
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/b6231d6a090f3301e10d591f62298597_slides7f.pdf
 file_size: 309384
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource contains 6 set of problems based on counting IV.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/1b8701429a6eb13af91e32b869f0a4cd_cp10w.pdf
 file_size: 129686
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

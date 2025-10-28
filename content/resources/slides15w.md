@@ -5,8 +5,6 @@ description: This resource discusses graph with probable transitions, random wal
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/e05285a4e9c63ae6c07b9032a10d17d4_slides15w.pdf
 file_size: 90039
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

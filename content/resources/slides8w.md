@@ -5,8 +5,6 @@ description: This resource discusses sum of children, geometric series, infinite
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/bbab7ff88f7002ba03ae7f522302cb1c_slides8w.pdf
 file_size: 133806
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

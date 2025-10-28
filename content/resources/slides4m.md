@@ -5,8 +5,6 @@ description: 'This resource discusses binary relation, relation abstraction, typ
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/8c9bb7bba2466a7c4c327abd1b96b9f2_slides4m.pdf
 file_size: 318026
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

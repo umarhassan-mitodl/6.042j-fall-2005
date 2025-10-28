@@ -4,8 +4,6 @@ description: This resource contains 5 set of problems based on variance.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/452c02d740b20a47a2e486ca6aec22ce_cp14w.pdf
 file_size: 120109
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

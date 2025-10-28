@@ -4,8 +4,6 @@ description: This resource contains solutions to in-class problems for week 1, f
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/8ac8488f26d69a31bf160712da508157_cp1fsol.pdf
 file_size: 139198
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

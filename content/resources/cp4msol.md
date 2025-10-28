@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/eee3b2c0826a243b7e49d5e25c0e3814_cp4msol.pdf
 file_size: 156412
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

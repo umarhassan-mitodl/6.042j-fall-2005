@@ -4,8 +4,6 @@ description: This resource contains 2 set of problems based on induction I.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/2985bc4646c9bf23a59bae14f1235c05_cp3w.pdf
 file_size: 98761
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

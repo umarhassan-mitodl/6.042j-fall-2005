@@ -4,8 +4,6 @@ description: This resource conatians 3 set of problems based on propositions and
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/b9e1b5fc5ce2ca8463fc590e2fc1625f_cp1f.pdf
 file_size: 139056
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

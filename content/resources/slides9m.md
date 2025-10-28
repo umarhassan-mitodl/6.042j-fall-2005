@@ -5,8 +5,6 @@ description: This resource discusses integral method, Stirling?s Formula and its
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/83d93733241de284b3e6f604d3e4f7ed_slides9m.pdf
 file_size: 155610
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource discusses strong induction, well-order principle, uns
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/634f6f49db9e7971d8db89fd240c05ff_slides3f.pdf
 file_size: 145247
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
